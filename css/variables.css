@@ -19,10 +19,11 @@ font-face {
     src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Light.otf);
 }
 :root{
-    --color-primary: #00DDA3;
-    --color-secundary: #33404F;
-    --color-ternario: #fff;
-    --color-cuarto:#B5C5C3;
-    --color-cuaternario:gray;
-    --color-shadow-transparent:0px 0px 10px rgba(0, 0, 0, 0.216)
+        --color-primary: #FFC168;
+        --color-secundary: #F7F7F7; 
+        --color-terceario: rgb(255, 33, 33);
+        --color-cuarto: rgb(236, 149, 10); 
+        --color-quinto: rgb(255, 192, 4);
+        --color-icon: #ff0000; 
+        --color-shadow-transparent:0px 0px 10px rgba(0, 0, 0, 0.216)
 }
