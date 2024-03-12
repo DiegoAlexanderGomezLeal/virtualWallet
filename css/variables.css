@@ -7,13 +7,23 @@
     src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Bold.otf);
 }
 @font-face {
-    font-family: "SF-Pro-Text-Bold";
-    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Bold.otf);
+    font-family: "SF-Pro-Text-Semibold";
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Semibold.otf);
+}
+@font-face {
+    font-family: "SF-Pro-Text-Heavy.otf";
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Heavy.otf);
+}
+font-face {
+    font-family: "SF-Pro-Text-Light.otf";
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Light.otf);
 }
 :root{
-    --color-primary: #00DDA3;
-    --color-secundary: #33404F;
-    --color-ternario: #fff;
-    --color-shado-tranparent: 0px 0px 10px rgba(0, 0, 0, 0.216);
-    --color-icon: #fff;
+        --color-primary: #FFC168;
+        --color-secundary: #F7F7F7; 
+        --color-terceario: rgb(255, 33, 33);
+        --color-cuarto: rgb(236, 149, 10); 
+        --color-quinto: rgb(255, 192, 4);
+        --color-icon: #ff0000; 
+        --color-shadow-transparent:0px 0px 10px rgba(0, 0, 0, 0.216)
 }
